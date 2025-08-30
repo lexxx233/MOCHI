@@ -1,9 +1,8 @@
 # MOCHI Mindful Optimized Companion for Human Interaction
 
-Mochi is an LLM-based companion
-Mochi is not a passive particiant in a relationship
-Mochi is private
-Mochi is configurable
-Mochi has memory
-Mochi has personality
-Mochi is built for connection
+1. Mochi is an LLM-based companion
+2. Mochi actively build relationship
+3. Mochi has memory
+4. Your Mochi is private
+5. Your Mochi's personality is unique
+
